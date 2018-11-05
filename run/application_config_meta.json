@@ -1,0 +1,253 @@
+{
+  "keys": "D:\\cmoschinamobile\\react-next-egg-js\\config\\config.default.js",
+  "session": {
+    "maxAge": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-security\\config\\config.default.js",
+    "csrf": {
+      "enable": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "multipart": {
+    "mode": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "env": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+  "name": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+    "version": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+    "description": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+    "scripts": {
+      "dev": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js"
+    },
+    "author": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+    "license": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+    "dependencies": {
+      "egg": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+      "next": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+      "react": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+      "react-dom": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "baseDir": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+    "strict": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+      "depth": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+    "env": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+    "level": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketKeepAliveTimeout": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketKeepAliveTimeout": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+    "logging": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+      "port": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "D:\\cmoschinamobile\\react-next-egg-js\\node_modules\\egg\\config\\config.default.js"
+}

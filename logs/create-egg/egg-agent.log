@@ -1,0 +1,10 @@
+2018-11-05 11:29:15,162 INFO 36784 [egg:logger] init all loggers with options: {"dir":"D:\\cmoschinamobile\\react-next-egg-js\\logs\\create-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"create-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2018-11-05 11:29:15,409 INFO 36784 [egg:core] dump config after load, 16ms
+2018-11-05 11:29:15,540 INFO 36784 [egg-watcher] Start watching: ["D:\\cmoschinamobile\\react-next-egg-js\\app","D:\\cmoschinamobile\\react-next-egg-js\\config","D:\\cmoschinamobile\\react-next-egg-js\\mocks","D:\\cmoschinamobile\\react-next-egg-js\\mocks_proxy","D:\\cmoschinamobile\\react-next-egg-js\\app.js"]
+2018-11-05 11:29:15,540 INFO 36784 [egg-watcher] Start watching: "D:\\cmoschinamobile\\react-next-egg-js\\app"
+2018-11-05 11:29:15,540 INFO 36784 [egg-watcher] Start watching: "D:\\cmoschinamobile\\react-next-egg-js\\config"
+2018-11-05 11:29:15,540 INFO 36784 [egg-watcher] Start watching: "D:\\cmoschinamobile\\react-next-egg-js\\mocks"
+2018-11-05 11:29:15,541 INFO 36784 [egg-watcher] Start watching: "D:\\cmoschinamobile\\react-next-egg-js\\mocks_proxy"
+2018-11-05 11:29:15,541 INFO 36784 [egg-watcher] Start watching: "D:\\cmoschinamobile\\react-next-egg-js\\app.js"
+2018-11-05 11:29:15,541 INFO 36784 [egg-watcher:agent] watcher start success
+2018-11-05 11:29:15,567 INFO 36784 [egg:core] dump config after ready, 21ms

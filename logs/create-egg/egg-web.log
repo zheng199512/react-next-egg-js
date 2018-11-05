@@ -1,0 +1,16 @@
+2018-11-05 11:29:17,641 INFO 9188 [egg:logger] init all loggers with options: {"dir":"D:\\cmoschinamobile\\react-next-egg-js\\logs\\create-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"create-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-05 11:29:17,693 INFO 9188 [egg-schedule]: register schedule D:\cmoschinamobile\react-next-egg-js\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-11-05 11:29:17,693 INFO 9188 [egg-schedule]: register schedule D:\cmoschinamobile\react-next-egg-js\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-11-05 11:29:17,694 INFO 9188 [egg-multipart] stream mode enable
+2018-11-05 11:29:18,085 INFO 9188 [egg-static] starting static serve /public/ -> D:\cmoschinamobile\react-next-egg-js\app\public
+2018-11-05 11:29:18,092 INFO 9188 [egg-security] use csrf middleware
+2018-11-05 11:29:18,094 INFO 9188 [egg-security] use methodnoallow middleware
+2018-11-05 11:29:18,095 INFO 9188 [egg-security] use noopen middleware
+2018-11-05 11:29:18,097 INFO 9188 [egg-security] use nosniff middleware
+2018-11-05 11:29:18,098 INFO 9188 [egg-security] use xssProtection middleware
+2018-11-05 11:29:18,099 INFO 9188 [egg-security] use xframe middleware
+2018-11-05 11:29:18,102 INFO 9188 [egg-security] use dta middleware
+2018-11-05 11:29:18,102 INFO 9188 [egg-security] compose 7 middlewares into one security middleware
+2018-11-05 11:29:18,136 INFO 9188 [egg:core] dump config after load, 18ms
+2018-11-05 11:29:18,151 INFO 9188 [egg-watcher:application] watcher start success
+2018-11-05 11:29:18,176 INFO 9188 [egg:core] dump config after ready, 23ms
